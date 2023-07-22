@@ -1,1 +1,1 @@
-# daisy-man-with-daisyui
+# daisy-man-with-daisyUI
