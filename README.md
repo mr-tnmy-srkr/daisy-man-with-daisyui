@@ -2,9 +2,9 @@
 ..................................................
 theme dark,light,custom:
 
-<!-- <html lang="en" data-theme="cupcake"> -->
-<!-- <html lang="en" data-theme="light"> -->
-<!-- <html lang="en" data-theme="dark"> -->
+<html lang="en" data-theme="cupcake">
+<html lang="en" data-theme="light">
+<html lang="en" data-theme="dark">
 ..................................................
 https://merakiui.com/components
 
